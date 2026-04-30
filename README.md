@@ -1,8 +1,13 @@
 Purpose: If your environment has a FW VPN w/ redirection, using default speed tests may not work. For example ZScaler can interfere with websites like Ookla.
+
 Simply run the batch file on any Windows computer.
+
 Outputs to SpeedtestResult.txt
+
 You can change to different CURL addresses on lines 64, 65 and 66.
+
 You can also increase the server count to test more URLs.
+
 
 Default URLs;
 
